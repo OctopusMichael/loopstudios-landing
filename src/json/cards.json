@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Deep earth",
+    "class": " box uno  "
+  },
+  {
+    "id": 2,
+    "name": "Night arcade",
+    "class": " box  dos"
+  },
+  {
+    "id": 3,
+    "name": "Soccer team VR",
+    "class": " box tres"
+  },
+  {
+    "id": 4,
+    "name": "The grid",
+    "class": " box cuatro"
+  },
+  {
+    "id": 5,
+    "name": "From up above VR",
+    "class": " box cinco"
+  },
+  {
+    "id": 6,
+    "name": "Pocket borealis",
+    "class": " box seis "
+  },
+  {
+    "id": 7,
+    "name": "The curiosity",
+    "class": " box siete"
+  },
+  {
+    "id": 8,
+    "name": "Make it fisheye",
+    "class": " box ocho"
+  }
+]

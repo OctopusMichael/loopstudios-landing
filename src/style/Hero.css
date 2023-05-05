@@ -1,0 +1,54 @@
+.section-hero {
+  background-image: url(../images/mobile/image-hero.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 828px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-hero h1 {
+  border: 1px solid white;
+  color:var(--white);
+  text-transform: uppercase;
+  padding: 10px;
+  width: 90%;
+  margin: auto;
+  font-size: 3rem;
+  font-weight: 100;
+  
+}
+
+@media only screen and (min-width: 992px) {
+  
+}
+@media only screen and (min-width: 1200px) {
+  .section-hero {
+    background-image: url(../images/desktop/image-hero.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 650px;
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+  }
+  .section-hero h1 {
+    border: 1px solid white;
+    color:var(--white);
+    text-transform: uppercase;
+    padding: 20px;
+    width: 50%;
+    margin: 0px 0px 0px 120px;
+    font-size: 5rem;
+    font-weight: 100;
+    line-height: 70px;
+    
+  }
+  
+}
